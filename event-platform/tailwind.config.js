@@ -9,6 +9,11 @@ module.exports = {
         sans: 'Roboto, sans-serif'
       },
       colors: {
+        discord:{
+          100:'#7289da',
+          200: '#91a5ed',
+          300: '#51576e'
+        },
         green: {
           300: '#00B37E',
           500: '#00875F',
