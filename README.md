@@ -9,7 +9,5 @@
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Headless CMS (Content Management System) com graphcms</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Tailwind CSS</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> @apollo/client and Graphql</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Lib classnames</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> svg2jsx para gerar um componente SVG (<a href="https://svg2jsx.com/" rel="nofollow">https://svg2jsx.com/</a>)</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Phosphor icon family (<a href="https://phosphoricons.com/" rel="nofollow">https://phosphoricons.com/</a>)</li>
 </ul>
